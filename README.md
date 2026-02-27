@@ -7,6 +7,8 @@ A lightweight Human Resource Management System built with FastAPI, React (Vite),
 - **Backend API**: https://hrms-backend-lk26.onrender.com
 - **API Docs**: `<backend-url>/docs` (Swagger UI)
 
+🔴 Render Free Tier Notice: The backend sleeps after 15 min inactivity. First request after sleep takes ~1 min to wake up—wait a bit for faster subsequent responses!
+
 ---
 
 ## Tech Stack
