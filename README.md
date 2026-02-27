@@ -4,7 +4,7 @@ A lightweight Human Resource Management System built with FastAPI, React (Vite),
 
 ## Live Demo
 - **Frontend**: https://hrms-iota-one.vercel.app
-- **Backend API**: [Deploy to Render — URL here after deployment]
+- **Backend API**: https://hrms-backend-lk26.onrender.com
 - **API Docs**: `<backend-url>/docs` (Swagger UI)
 
 ---
